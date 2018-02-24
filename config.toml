@@ -1,36 +1,41 @@
 languageCode = "en-us"
-title = "Aerial"
+title = "SeisMan"
 baseurl = "http://example.org/"
 
 [params]
-  name = "Adam Jensen"
-  about = "Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this"
-  copyright = "Untitled"
+  name = "SeisMan"
+  about = "Dongdong Tian &nbsp;&bull;&nbsp; USTC &nbsp;&bull;&nbsp; Seismologist"
+  copyright = "SeisMan 2013-2018"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
-  bg_scroll = ""
+  bg_scroll = "false"
   favicon = "favicon.ico"
 
 [[params.social]]
-  medium = "Twitter"
-  icon = "twitter"
-  link = "#"
+  medium = "Academic"
+  icon = "university"
+  link = "http://home.ustc.edu.cn/~dongzhi"
 
 [[params.social]]
-  medium = "Facebook"
-  icon = "facebook"
-  link = "#"
+  medium = "Blog"
+  icon = "edit"
+  link = "http://blog.seisman.info"
 
 [[params.social]]
-  medium = "Dribbble"
-  icon = "dribbble"
-  link = "#"
+  medium = "Wiki"
+  icon = "wikipedia-w"
+  link = "http://wiki.seisman.info"
+
+[[params.social]]
+  medium = "Link"
+  icon = "link"
+  link = "http://blog.seisman.info/links/"
 
 [[params.social]]
   medium = "Github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/seisman"
 
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "#"
+  link = "mailto:seisman.info@gmail.com"

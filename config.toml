@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "SeisMan"
-baseurl = "http://example.org/"
+baseurl = "http://seisman.info/"
 
 [params]
   name = "SeisMan"

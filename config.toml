@@ -1,13 +1,14 @@
 languageCode = "en-us"
 title = "SeisMan"
 baseurl = "http://seisman.info/"
+disableKinds = ["sitemap", "RSS"]
 
 [params]
   name = "SeisMan"
   about = "Dongdong Tian &nbsp;&bull;&nbsp; USTC &nbsp;&bull;&nbsp; Seismologist"
   copyright = "SeisMan 2013-2018"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
-  bg_scroll = "false"
+  bg_scroll = ""
   favicon = "favicon.ico"
 
 [[params.social]]

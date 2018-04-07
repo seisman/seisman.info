@@ -11,6 +11,8 @@ disableKinds = ["sitemap", "RSS"]
   bg_scroll = ""
   favicon = "favicon.ico"
 
+  googlesite = "YtIwelKWFVHPXmIvYL-XxbDiILIPD0B7CKo16OVMYsM"
+
 [[params.social]]
   medium = "Academic"
   icon = "university"

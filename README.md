@@ -1,4 +1,4 @@
 # SeisMan
 
-- website: http://seisman.info
+- website: https://seisman.info
 - engine: [hugo](https://gohugo.io/)

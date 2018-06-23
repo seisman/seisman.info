@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "SeisMan"
-baseurl = "http://seisman.info/"
+baseurl = "https://seisman.info/"
 disableKinds = ["sitemap", "RSS"]
 
 [params]
@@ -21,7 +21,7 @@ disableKinds = ["sitemap", "RSS"]
 [[params.social]]
   medium = "Blog"
   icon = "edit"
-  link = "http://blog.seisman.info"
+  link = "https://blog.seisman.info"
 
 [[params.social]]
   medium = "Wiki"
@@ -31,7 +31,7 @@ disableKinds = ["sitemap", "RSS"]
 [[params.social]]
   medium = "Link"
   icon = "link"
-  link = "http://blog.seisman.info/links/"
+  link = "https://blog.seisman.info/links/"
 
 [[params.social]]
   medium = "Github"

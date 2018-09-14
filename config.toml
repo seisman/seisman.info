@@ -31,7 +31,7 @@ disableKinds = ["sitemap", "RSS"]
 [[params.social]]
   medium = "Link"
   icon = "link"
-  link = "https://blog.seisman.info/links/"
+  link = "https://link.seisman.info"
 
 [[params.social]]
   medium = "Github"

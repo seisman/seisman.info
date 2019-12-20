@@ -10,8 +10,8 @@ with [Aerial](https://github.com/sethmacleod/aerial) theme.
 
 ## Build the website locally
 
-To build and preview the website locally, you first need [Hugo](https://gohugo.io/)
-installed, then run:
+To build and preview the website locally, you need to install [Hugo](https://gohugo.io/) first,
+then run:
 
 ```
 git clone https://github.com/seisman/seisman.info

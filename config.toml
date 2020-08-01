@@ -22,11 +22,6 @@ disableKinds = ["sitemap", "RSS"]
   link = "https://blog.seisman.info"
 
 [[params.social]]
-  medium = "Wiki"
-  icon = "wikipedia-w"
-  link = "https://wiki.seisman.info"
-
-[[params.social]]
   medium = "Link"
   icon = "link"
   link = "https://link.seisman.info"

@@ -1,6 +1,6 @@
 # SeisMan
 
-[![Building](https://github.com/seisman/seisman.info/workflows/Deploy%20to%20github%20pages/badge.svg)](https://github.com/seisman/seisman.info/actions)
+[![Building](https://github.com/seisman/seisman.info/workflows/Building/badge.svg)](https://github.com/seisman/seisman.info/actions)
 [![Visit the site](https://img.shields.io/badge/Visit-https://seisman.info-blue.svg?style=flat-square)](https://seisman.info)
 
 This is the landing page of my personal websites.

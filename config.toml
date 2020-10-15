@@ -14,7 +14,7 @@ disableKinds = ["sitemap", "RSS"]
 [[params.social]]
   medium = "Academic"
   icon = "university"
-  link = "https://msu.edu/~tiandong"
+  link = "https://me.seisman.info/"
 
 [[params.social]]
   medium = "Blog"

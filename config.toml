@@ -5,7 +5,7 @@ disableKinds = ["sitemap", "RSS"]
 
 [params]
   name = "Dongdong Tian"
-  about = "SeisMan &nbsp;&bull;&nbsp; <a href='https://msu.edu/' target='_black'>Michigan State University</a> &nbsp;&bull;&nbsp; Seismologist"
+  about = "SeisMan &nbsp;&bull;&nbsp; <a href='https://en.cug.edu.cn/' target='_black'>China University of Geosciences (Wuhan)</a> &nbsp;&bull;&nbsp; Seismologist"
   copyright = "SeisMan 2013 - 2020"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
